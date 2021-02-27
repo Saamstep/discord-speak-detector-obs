@@ -1,0 +1,16 @@
+{
+  "name": "discord-speak-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js  --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "discord.js": "^12.5.1",
+    "obs-websocket-js": "^4.0.2"
+  }
+}

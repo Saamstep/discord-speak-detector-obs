@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "guild": "",
+    "liveChannelID": "",
+    "prefix": "-",
+    "perms": "",
+    "casters": [""],
+    "scene_name": "",
+    "websocket": "localhost:4444",
+    "password": ""
+}
