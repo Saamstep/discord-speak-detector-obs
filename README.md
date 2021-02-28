@@ -10,7 +10,7 @@
 
 ## Setup
 1. Copy the config and fill out as desired `cp example.config.json config.json`
-```json
+```
 {
     "token": "", //Bot token
     "guild": "", //Guild ID
